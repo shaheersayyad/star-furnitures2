@@ -1,2 +1,2 @@
-# star-furnitures2
+# star-furnitures
 a personal website of our own family
