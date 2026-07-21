@@ -1373,3 +1373,9 @@ body{
     z-index: 2;
     color: white;
 }
+.hero-text {
+    position: relative;
+    z-index: 2;
+    color: white;
+    text-shadow: 2px 2px 6px black;
+}
