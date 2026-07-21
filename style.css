@@ -1354,3 +1354,9 @@ body{
     font-weight: 600;
     margin-top: 10px;
 }
+.hero {
+    background-image: url("./hero-bg.jpeg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
