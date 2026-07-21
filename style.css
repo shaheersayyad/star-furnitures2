@@ -1360,3 +1360,16 @@ body{
     background-position: center !important;
     background-repeat: no-repeat !important;
 }
+.hero {
+    background-image: url("./hero-bg.jpeg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    position: relative;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 2;
+    color: white;
+}
