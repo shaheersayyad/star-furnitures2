@@ -77,7 +77,7 @@ nav ul li a:hover,
     background-image: linear-gradient(
         rgba(0, 0, 0, 0.35),
         rgba(0, 0, 0, 0.35)
-    ), url("hero-bg.jpeg");
+    ), url("./hero-bg.jpeg");
 
     background-size: cover;
     background-position: center;
